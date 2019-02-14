@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "179823927737",
+    "firebase_url": "https://sms-api-demo.firebaseio.com",
+    "project_id": "sms-api-demo",
+    "storage_bucket": "sms-api-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179823927737:android:b5a0dc0b1e12b589",
+        "android_client_info": {
+          "package_name": "com.example.androidphonepermission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179823927737-5690hrpj0dk5kar2raf8dutooi3ek1tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidphonepermission",
+            "certificate_hash": "ed2a70df858614ec9ae647ece72341c9cf31536f"
+          }
+        },
+        {
+          "client_id": "179823927737-fsu4p1kmkqp82v253ibrj8jgrf61o0cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdSR0BxAto6D8ItCvUsReldWB5kFw4M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179823927737-fsu4p1kmkqp82v253ibrj8jgrf61o0cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
